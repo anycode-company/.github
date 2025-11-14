@@ -1,10 +1,34 @@
-## Hi there 👋
+# 👋 Welcome to Anycode
 
+Anycode — мы создаём IT-продукты и автоматизируем бизнес-процессы для компаний разных направлений.  
+С нашим стеком Vue, React, Typescript и C# мы предлагаем комплексные решения: от веб-приложений и мобильных сервисов до CRM, аналитики и интеграций.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## 🌐 What we build
+
+- **Web Applications & Websites** — современные frontend-решения с акцентом на UX  
+- **CRM & Corporate Systems** — автоматизация процессов, аналитика, отчёты  
+- **Integrations & Automations** — связываем системы, настраиваем пайплайны и API  
+- **Ongoing Support & Scaling** — сопровождение после запуска, улучшения и доработка
+
+---
+
+## 🛠 Tech stack
+
+- Frontend: Vue 3, React, Typescript  
+- Backend: .Net, C#, Go (по необходимости)  
+- Базы и интеграции: PostgreSQL, MongoDB, REST/GraphQL, WebSockets  
+- DevOps: Docker, Kubernetes (по масштабу проекта)  
+- UI/UX: Индивидуальный дизайн под бренд клиента  
+
+---
+
+## 🤝 Сотрудничество
+
+Готовы обсудить ваш проект? Напишите: **contact@anycode.kz**  
+Следите за обновлениями репозиториев.
+
+---
+
+*© 2025 Anycode. All rights reserved.*
